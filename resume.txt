@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gannavarapu Gayatri - Portfolio</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin:0;
+            background-color:#f4f6f9;
+            color:#333;
+        }
+        header{
+            background:#2c3e50;
+            color:white;
+            padding:20px;
+            text-align:center;
+        }
+        section{
+            margin:20px;
+            padding:15px;
+            background:white;
+            border-radius:10px;
+            box-shadow:0 0 10px rgba(0,0,0,0.1);
+        }
+        h2{
+            color:#2c3e50;
+        }
+        ul{
+            line-height:1.6;
+        }
+        footer{
+            text-align:center;
+            padding:10px;
+            font-size:14px;
+            color:#777;
+        }
+        a{
+            color:#2980b9;
+            text-decoration:none;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>GANNAVARAPU GAYATRI</h1>
+    <p>
+        Mobile: +91-8297632243 |
+        <a href="https://www.linkedin.com/in/gannavarapu-gayatri-a851222b7/" target="_blank">LinkedIn</a> |
+        <a href="https://github.com/gayatrig16" target="_blank">GitHub</a> |
+        Email: gayatrig911@gmail.com
+    </p>
+</header>
+<section>
+<h2>EDUCATION</h2>
+<ul>
+<li><b>Bachelor of Technology – Information Technology</b><br>
+Smt. Durgabai Deshmukh Govt Women’s Technical Training Institute<br>
+CGPA: 9.97/10 | TSBTET</li>
+<li><b>School Education</b><br>
+S.G.B Model High School – 100% | TSBSE</li>
+<li><b>Current Study</b><br>
+VNR Vignana Jyothi Institute of Engineering and Technology (2024-2027)<br>
+CGPA: 9.7/10</li>
+</ul>
+</section>
+<section>
+<h2>SKILLS</h2>
+<ul>
+<li>Java, C++, Python, JavaScript, SQL</li>
+<li>Data Structures, Design & Analysis of Algorithms</li>
+<li>HTML, CSS, Bootstrap, ReactJS</li>
+<li>MySQL, GIT, VS Code</li>
+<li>Effective Communication, Team Collaboration</li>
+</ul>
+</section>
+<section>
+<h2>PROJECTS</h2>
+<ul>
+<li><b>Faculty Time Table Management System – April 2025</b>
+<p>Automated scheduling platform with conflict detection and responsive UI.</p></li>
+<li><b>Visual Image Caption Generator – April 2025</b>
+<p>CNN + RNN based deep learning system for natural language image captions.</p></li>
+<li><b>Student Attendance Management System – Nov 2024</b>
+<p>Android app with real-time attendance marking and push notifications.</p></li>
+</ul>
+</section>
+<section>
+<h2>ACHIEVEMENTS & CERTIFICATES</h2>
+<ul>
+<li>District Level Srujana Tech Fest Certification</li>
+<li>JavaScript Essentials – Cisco Networking Academy</li>
+<li>6 Months Industrial Training – Industech Solutions</li>
+<li>C Language – Sun Informatics</li>
+</ul>
+</section>
+<footer>
+<p>© 2026 Gannavarapu Gayatri. All Rights Reserved.</p>
+</footer>
+</body>
+</html>"}
